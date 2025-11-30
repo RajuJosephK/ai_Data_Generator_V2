@@ -1,0 +1,13 @@
+streamlit==1.39.0
+openai==1.55.3
+httpx==0.28.1
+pydantic==2.9.2
+typing_extensions==4.12.2
+
+# Optional but common:
+python-dotenv==1.0.1
+requests==2.32.3
+
+# If you use pandas / numpy in your app:
+pandas==2.2.3
+numpy==1.26.4
